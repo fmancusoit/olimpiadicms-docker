@@ -1,8 +1,11 @@
+# ⚒️ MOVED
+
+Questa repository è stata trasferita e verrà ora gestita e aggiornata qui:
+[https://git.vps.francescomancuso.it/francesco/cmsolimpiadi-docker](https://git.vps.francescomancuso.it/francesco/cmsolimpiadi-docker)
+
 # Contest Management System Docker Version
 
 Edited version of Contest Managment System for [ITTS E. Scalfaro](https://www.ittsscalfaro.edu.it/)
-
-Main Website [olimpiadi.francescomancuso.it](https://olimpiadi.francescomancuso.it/)
 
 ## Credits
 
